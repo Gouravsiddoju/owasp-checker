@@ -1,0 +1,6 @@
+# Ignore config file with secrets
+config.ini
+
+# Optional: also ignore logs and reports
+owasp_checker.log
+secure_reports/
