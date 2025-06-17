@@ -1,0 +1,4 @@
+requests>=2.31.0
+tenacity>=8.2.2
+rich>=13.7.0
+configparser>=5.3.0
